@@ -8,6 +8,7 @@ Q-value is the decibel (dB) value representing signal BER.
 
 ## Procedure
 
+
 *   Connect two ZR interfaces using a duplex LC fiber jumper such that TX
     output power of one is the RX input power of the other module.
 
